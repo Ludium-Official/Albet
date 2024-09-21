@@ -85,12 +85,12 @@ This project will demonstrate the power of Aleo’s privacy features in the gami
 
 ### **Budget and Milestones - Quick Start**
 
-| Category | Description | Duration | Cost (USD) | Cost ($Aleo) |
-| --- | --- | --- | --- | --- |
-| Planning | Game design, logic finalization, UI/UX wireframes | 1 week | $500 | 1,500 $Aleo |
-| Backend Engineering | Smart contract development, bet handling, ZKP integration | 3 weeks | $1,500 | 2,000 $Aleo |
-| Frontend Engineering | Frontend development, wallet integration, API connections | 2 weeks | $1,000 | 3,000 $Aleo |
-| Testing | Game functionality testing, 100 user acquisitions | 1 week | $0 (in-house) | 3,500 $Aleo |
+| Category | Description | Duration |
+| --- | --- | --- |
+| Planning | Game design, logic finalization, UI/UX wireframes | 1 week |
+| Backend Engineering | Smart contract development, bet handling, ZKP integration | 3 weeks |
+| Frontend Engineering | Frontend development, wallet integration, API connections | 2 weeks |
+| Testing | Game functionality testing, 100 user acquisitions | 1 week |
 
 ### **Team**
 

@@ -1,0 +1,8 @@
+.env
+*.avm
+*.prover
+*.verifier
+outputs/
+
+run.sh
+run_claim.sh
